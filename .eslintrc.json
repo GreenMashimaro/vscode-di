@@ -41,6 +41,8 @@
 		], // non-complete list of globals that are easy to access unintentionally
 		"no-var": "warn",
 		"semi": "error",
+		"quotes": ["error", "single"],
+		"space-before-function-paren": ["error", "never"],
 
 		"@typescript-eslint/semi": "warn",
 		"@typescript-eslint/member-delimiter-style": "warn",
