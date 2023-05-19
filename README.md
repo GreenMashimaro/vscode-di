@@ -1,8 +1,8 @@
-# vscode di demo
+# VSCode DI Demo
 
 The core logic comes from [vscode](https://github.com/microsoft/vscode/tree/main/src/vs/platform/instantiation/common).
 
-# vscode di原理详解
+# VSCode DI原理详解
 
 参考自：https://zhuanlan.zhihu.com/p/60228431
 
